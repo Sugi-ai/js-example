@@ -6,10 +6,10 @@
 }
 
 body {
-  background: #001e4d;
+  background: #86d115;
 }
 .app {
-  background: #fff;
+  background: #d37d7d;
   width: 90%;
   max-width: 600px;
   margin: 100px auto 0;
@@ -70,5 +70,5 @@ body {
   background: #9aeabc;
 }
 .quiz div .btn.inCorrect {
-  background: #ff9393;
+  background: #ef0606;
 }
